@@ -35,7 +35,7 @@
   <img align="left" alt="ijo42's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ijo42&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true" />
 
 
-[discord]: https://discord.gg/4ZYazbM
+[discord]: https://discord.com/users/346172111049457664
 [github]: https://github.com/ijo42
 [email]: mailto:admin@ijo42.ru
 [dockerhub]: https://hub.docker.com/u/ijo42
