@@ -30,6 +30,26 @@
 
 ---
 
+## WakaTime Stats
+
+Total time [![wakatime](https://wakatime.com/badge/user/c0888a2f-137a-4357-a47d-1fb0ea962aa1.svg)](https://wakatime.com/@c0888a2f-137a-4357-a47d-1fb0ea962aa1)
+
+### Last week
+
+<a href="https://wakatime.com/@ijo42">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ijo42">
+</a>
+
+---
+
+## Spotify Stats
+
+<a href="https://open.spotify.com/user/6enxujywyzb3k4ak27k20vmr8">
+    <img width="400" height="330" src="https://spotify-recently-played-readme.vercel.app/api?user=6enxujywyzb3k4ak27k20vmr8">
+</a>
+
+---
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="ijo42's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ijo42&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true" />
