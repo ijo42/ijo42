@@ -37,7 +37,7 @@ Total time [![wakatime](https://wakatime.com/badge/user/c0888a2f-137a-4357-a47d-
 ### Last week
 
 <a href="https://wakatime.com/@ijo42">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ijo42">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ijo42&range=all_time">
 </a>
 
 ---
